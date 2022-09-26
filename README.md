@@ -25,7 +25,7 @@ ls
 cd Bjorka
 git pull
 ls
-python Bjorkapy
+python Bjorka.py
 ```
 
 # Instalation
