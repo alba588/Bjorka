@@ -14,6 +14,9 @@ Script Ini Untuk Bocil²
 │ └[+] Contact : 0822-6131-0817
 └─
 ```
+# Hasil
+![IMG_20220926_104120](https://user-images.githubusercontent.com/111215636/192183465-c09a74e4-f9cc-42a7-a19c-cd72a2f740dd.jpg)
+
 ## Cara Update
 ```php
 rm -rf Bjorka
